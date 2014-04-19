@@ -2,6 +2,6 @@ Cinder-Examples
 ===============
 
 
-Set of samples of Cinder
+Set of samples for Cinder
 
 http://libcinder.org/
