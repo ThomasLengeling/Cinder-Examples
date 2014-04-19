@@ -425,9 +425,9 @@ t1397939622
 s459637
 
 N/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp
-c000000005352E6360000000000000B2A
-t1397941814
-s2858
+c000000005352E8D50000000000000BF2
+t1397942485
+s3058
 
 N/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/Info.plist
 c000000005352DDA60000000000000462
@@ -440,7 +440,7 @@ t1397939622
 s301
 
 N/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app
-t1397941763
+t1397942330
 s102
 
 N/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/Info.plist
@@ -448,8 +448,8 @@ t1397941361
 s1508
 
 N/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam
-t1397941818
-s4323548
+t1397942491
+s4320372
 
 N/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/PkgInfo
 t1397941361
@@ -465,8 +465,8 @@ t1397941361
 s179
 
 N/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.o
-t1397941817
-s2761576
+t1397942490
+s2762848
 
 N/Users/tom/Documents/Programming/Cinder/cinder_master/boost/boost/aligned_storage.hpp
 c00000000513E9EF000000000000010C9
@@ -4452,11 +4452,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies05a475b71d03b941^ab2076b71d03b941^---0#1#1#--18"Check dependencies36"F18C20AD-EBBC-4DF3-848A-C346E8D0F7A2-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesad8a9c582003b941^07ed9d582003b941^---0#1#1#--18"Check dependencies36"D7E2B65A-6451-4345-99FF-34F8FB1CB0C4-
 
 CCompileC build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.o /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s419634615.473576
-e419634617.141886
+s419635288.624120
+e419635290.294582
 r1
 xCompileC
 xbuild/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.o
@@ -4469,8 +4469,8 @@ d/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/Mu
 d/Users/tom/Documents/Programming/Cinder/cinder_master/include/cinder/app/AppNative.h
 d/Users/tom/Documents/Programming/Cinder/cinder_master/include/cinder/params/Params.h
 d/Users/tom/Documents/Programming/Cinder/cinder_master/include/cinder/Camera.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp269"CompileC build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.o /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler2b4e79b71d03b941^d2002eb91d03b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp0000000000000000^3667"CompileC build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.o /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/MultiWindowParam-generated-files.hmap -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/MultiWindowParam-own-target-headers.hmap -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/MultiWindowParam-all-target-headers.hmap -iquote /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/MultiWindowParam-project-headers.hmap -iquote../../../cinder_master/include -iquote../include -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/include -I../../../cinder_master/boost -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/DerivedSources/i386 -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/DerivedSources -F/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug -include /var/folders/py/h9k_qx712cd0c272w8yvtb_h0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MultiWindowParam_Prefix-cwvhzcbccnyndqdhnanpfswrsjpo/MultiWindowParam_Prefix.pch -MMD -MT dependencies -MF /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.d --serialize-diagnostics /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.dia -c /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp -o /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.o36"31522D23-59F3-4C53-91ED-15FB233890AE-
-b4BA2BD80-F243-454E-AFBC-9088473B992B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp269"CompileC build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.o /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler6bd89f582003b941^2f6a4b5a2003b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp0000000000000000^3667"CompileC build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.o /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/MultiWindowParam-generated-files.hmap -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/MultiWindowParam-own-target-headers.hmap -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/MultiWindowParam-all-target-headers.hmap -iquote /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/MultiWindowParam-project-headers.hmap -iquote../../../cinder_master/include -iquote../include -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/include -I../../../cinder_master/boost -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/DerivedSources/i386 -I/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/DerivedSources -F/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug -include /var/folders/py/h9k_qx712cd0c272w8yvtb_h0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MultiWindowParam_Prefix-cwvhzcbccnyndqdhnanpfswrsjpo/MultiWindowParam_Prefix.pch -MMD -MT dependencies -MF /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.d --serialize-diagnostics /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.dia -c /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/src/MultiWindowParamApp.cpp -o /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParamApp.o36"B37F72A0-B977-46A8-A896-A6EAB7AD8C72-
+b74157CF0-4DC6-4257-95DE-493DAC7D64C9
 
 CCpResource /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/resources/CinderApp.icns build/Debug/MultiWindowParam.app/Contents/Resources/CinderApp.icns
 s419634161.377260
@@ -4483,8 +4483,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy bu
 b2DA5931C-6B5B-4FB2-8CF6-D7B58B3A6492
 
 CLd /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam normal i386
-s419634617.144740
-e419634618.095945
+s419635290.297022
+e419635291.236804
 r1
 xLd
 x/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam
@@ -4506,11 +4506,11 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
@@ -4542,11 +4542,11 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
@@ -4568,8 +4568,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Link /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam79"Ld build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam normal i386821f25b91d03b941^609018ba1d03b941^---0#0#1#--1440"Ld build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam normal i386    cd /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug -F/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug -filelist /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParam.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder_master/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParam_dependency_info.dat -o /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam36"EB28ED3F-45E5-40E9-907E-85AD4FB6A463-
-b4BA2BD80-F243-454E-AFBC-9088473B992B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Link /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam79"Ld build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam normal i38650184c5a2003b941^e89f3c5b2003b941^---0#0#1#--1440"Ld build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam normal i386    cd /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug -F/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug -filelist /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParam.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder_master/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/MultiWindowParam.build/Debug/MultiWindowParam.build/Objects-normal/i386/MultiWindowParam_dependency_info.dat -o /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/MacOS/MultiWindowParam36"E3EF726D-E54D-4043-88BE-FCCC38C5425E-
+b74157CF0-4DC6-4257-95DE-493DAC7D64C9
 
 CProcessInfoPlistFile /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app/Contents/Info.plist /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/Info.plist
 s419634161.374254
@@ -5391,11 +5391,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precomp
 b2DA5931C-6B5B-4FB2-8CF6-D7B58B3A6492
 
 CTouch /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app
-s419634618.096748
-e419634618.109547
+s419635291.237617
+e419635291.249929
 r1
 xTouch
 x/Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app38"Touch build/Debug/MultiWindowParam.appd9cd18ba1d03b941^e90c1cba1d03b941^---0#0#1#--259"Touch build/Debug/MultiWindowParam.app    cd /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode    /usr/bin/touch -c /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app36"212BB626-D2DF-4C93-BB4E-BF3698B22751-
-b4BA2BD80-F243-454E-AFBC-9088473B992B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app38"Touch build/Debug/MultiWindowParam.appc6dd3c5b2003b941^61fd3f5b2003b941^---0#0#1#--259"Touch build/Debug/MultiWindowParam.app    cd /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode    /usr/bin/touch -c /Users/tom/Documents/Programming/Cinder/Cinder-Projects/MultiWindowParam/xcode/build/Debug/MultiWindowParam.app36"591849C9-9C47-4239-88F7-1F33830A0D26-
+b74157CF0-4DC6-4257-95DE-493DAC7D64C9
 

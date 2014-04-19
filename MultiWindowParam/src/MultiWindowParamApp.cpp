@@ -9,6 +9,7 @@ using namespace std;
 
 class MultiWindowParamApp : public AppNative {
   public:
+    void prepareSettings( Settings *settings );
 	void setup();
 	void mouseDown( MouseEvent event );	
 	void update();
@@ -21,7 +22,7 @@ private:
     void	     windowManagement();
     
     
-    WindowRef    mRenderWindow;
+   
     void         drawGUIWindow();
     
 public:
@@ -36,6 +37,14 @@ public:
 	std::string				mString;
 };
 
+void MultiWindowParamApp::prepareSettings( Settings *settings )
+{
+    settings->setWindowSize(1902, 1080);
+    settings->setFrameRate(120.0f);
+    settings->setBorderless();
+    
+}
+
 void MultiWindowParamApp::setup()
 {
     
@@ -44,7 +53,7 @@ void MultiWindowParamApp::setup()
 	mMainWindow->connectDraw(&MultiWindowParamApp::drawMain, this);
     mMainWindow->connectClose(&MultiWindowParamApp::shutdown, this);
     
-    mMainWindow->setTitle("GUI");
+    WindowRef    mRenderWindow;
     mRenderWindow = createWindow(Window::Format().size(300, 600));
     mRenderWindow->connectDraw(&MultiWindowParamApp::drawGUIWindow, this);
     
