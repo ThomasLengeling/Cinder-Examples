@@ -54,8 +54,10 @@ void MultiWindowParamApp::setup()
     mMainWindow->connectClose(&MultiWindowParamApp::shutdown, this);
     
     WindowRef    mRenderWindow;
-    mRenderWindow = createWindow(Window::Format().size(300, 600));
+    mRenderWindow = createWindow(Window::Format().size(1920, 1080));
+    mRenderWindow->setBorderless();
     mRenderWindow->connectDraw(&MultiWindowParamApp::drawGUIWindow, this);
+    
     
     mObjSize = 4;
 	mLightDirection = Vec3f( 0, 0, -1 );
