@@ -63,9 +63,13 @@ void ArcsApp::draw()
     gl::color(0.0, 0.0, 0.0);
     arc(0, 0, 3.5, 2);
     
+    gl::color(0.0, 0.0, 0.0);
+    arc(1, 1, 6.5, 2);
+    
+    
     
     gl::color(0.5f, 0.5f, 0.5f);
-    gl::drawSolidCircle(ci::Vec2f(0, 0), 3, 32);
+    gl::drawSphere(ci::Vec3f::zero(), 1);
     
     mParams->draw();
 }
